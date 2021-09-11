@@ -21,7 +21,7 @@ const DonutsChart = () => {
 
         setChartData( { labels: myLabels, series: mySeries});
     });
-    }, [] )
+    }, [] );
 
     //forma errada
     // let chartData : ChartData = { labels: [], series:[] };
