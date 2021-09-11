@@ -26,7 +26,6 @@ const Dashboard = () => {
           </div>
           <DataTable />
         </div>
-  
         <Footer />
       </>
     );
